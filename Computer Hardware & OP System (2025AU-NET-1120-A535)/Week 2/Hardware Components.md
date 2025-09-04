@@ -7,7 +7,7 @@
 This artifact demonstrates the differences in hardware components. This artifact demonstrates the differences in RAM (
  Random Access Memory) and the various types of RAM to include DRAM, SRAM, SDRAM, DDR3, DDR4, AND DDR5. Ths artifact 
  also demonstrates the variosu types of storage devices to include flash drives, hard drives, and RAM. This artifact also
- demonstrates a working knowledge of the components of a motherboardand their respective location on the mothewrboard 
+ demonstrates a working knowledge of the components of a motherboard and their respective location on the motherboard 
  
 ## Evidence
 <img width="957" height="600" alt="Screenshot 2025-08-30 150433" src="https://github.com/user-attachments/assets/10a6514e-989c-40ee-b647-25e90fe5c7ba" />

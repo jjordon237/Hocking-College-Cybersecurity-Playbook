@@ -42,7 +42,7 @@ We then broke the list of upgrades down into a cheaper and more expensive option
 
  
 ## Reflection
-This was a very rewarding opportunity to help my buddy achieve his goal of owning his own gaming PC after personal losses. His new ASUS ROG Strix was able to play games with ultra-high speeds, very little clipping issues, and all work functions. It was an honor to help him build it for a grand total of $889.97 plus tax for the parts today. 
+This was a very rewarding opportunity to help my buddy achieve his goal of owning his own gaming PC after personal losses. His new ASUS ROG Strix was able to play games with ultra-high speeds, very little clipping issues, and all work functions. It was an honor to help him build it for a grand total of $889.97 plus tax for the parts. 
 
 "It's never too late to reclaim your inner child." - J Jordon.
  

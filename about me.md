@@ -1,4 +1,4 @@
-                        New beginnings can happen. Take a chance, walk a new path.
+**New beginnings can happen anywhere. Take a chance, walk a new path.**
 
 "It takes 20 years to build a reputation and a few minutes of cyber-incident to ruin it." --Stephane Nappo
 

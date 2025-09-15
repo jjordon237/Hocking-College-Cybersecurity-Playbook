@@ -67,3 +67,4 @@ Thanks for stopping by—and happy learning!
 James Jordon
 
 ---
+*AI Use Note (if used): I used Sage (ChatGPT) to help write the code as well as compile the information succinctly.*

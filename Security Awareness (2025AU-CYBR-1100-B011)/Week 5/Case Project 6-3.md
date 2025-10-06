@@ -91,3 +91,4 @@ From 2010 to 2025, Apple steadily evolved iPhone privacy through **hardware secu
 Hocking College — Cybersecurity & Network Systems  
 📧 jordonj@hocking.edu
 
+AI Use Note (if used): I used Sage (ChatGPT) to write the Github code for the portfolio page based off the .docx file I had written for it. The information was translated by SAGE into the code for Github.

@@ -8,25 +8,24 @@
 ---
 
 ## 🧭 Executive Summary
-The United States **does not yet have a single comprehensive federal privacy law** protecting all consumers’ personal data. Instead, protections are **fragmented** across sector-specific federal rules (e.g., COPPA, HIPAA, GLBA) and a growing patchwork of **state privacy acts** (e.g., California’s CCPA/CPRA, Virginia’s VCDPA, Colorado’s CPA, Utah’s UCPA, Oregon and Texas laws).  
-This uneven landscape leaves many users without consistent rights or remedies and creates compliance complexity for organizations. A **uniform, bipartisan federal standard** could set clear, enforceable expectations for data collection, use, sharing, and security. 
+The United States **does not yet have a single comprehensive federal privacy law** protecting all consumers’ personal data. Instead, protections are **fragmented** across sector-specific federal rules (e.g., COPPA, HIPAA, GLBA) and a growing patchwork of **state privacy acts** (e.g., California’s CCPA/CPRA, Virginia’s VCDPA, Colorado’s CPA, Utah’s UCPA, Oregon and Texas laws).  This uneven landscape leaves many users without consistent rights or remedies and creates compliance complexity for organizations. A **uniform, bipartisan federal standard** could set clear, enforceable expectations for data collection, use, sharing, and security. 
 
 ---
 
 ## 🏛️ U.S. Privacy Landscape (High Level)
 
 ### Federal (Sector-Specific)
-- **COPPA** — Protects children under 13 by limiting data collection and targeted ads.  
+- **COPPA** — Protects children under 13 by limiting data collection and targeted ads but does nothing for any adult consumer.  
 - **HIPAA** — Governs protected health information across covered entities and associates.  
 - **GLBA** — Requires financial institutions to safeguard consumer financial data and provide clear notices.  
-> These laws **do not** create a universal privacy right for all consumers across all industries. 
+> These laws **do not** create a universal privacy right for all consumers across all industries.  
 
 ### State Laws (Consumer Data Rights)
 Multiple states have enacted broad consumer privacy statutes, including:
 - **California** — CCPA/CPRA: **Access, delete, opt-out** of the sale/sharing of personal data.  
 - **Virginia** — VCDPA: Similar rights framework, emphasizing consent/opt-out.  
 - **Colorado, Utah, Oregon, Texas** — Recently passed laws modeled on earlier state acts.  
-> This momentum shows **bipartisan** interest at the state level, but **no uniform federal baseline** yet. 
+> This momentum shows **bipartisan** interest at the state level, but **no uniform federal baseline** yet. The American Data Privacy and Protection Act (ADPPA) is currently sitting in the now-closed offices of the Senate and is now considered a dead bill according to govtrack.us (n.d.). This creates a conundrum where there is no federal protection for a person’s data and how retail companies utilize or even sell it.
 
 ---
 
@@ -52,32 +51,8 @@ Multiple states have enacted broad consumer privacy statutes, including:
 9. **Small-Business Onramps:** Scaled obligations and templates to support compliance without stifling innovation.  
 10. **Interoperability:** Align with global norms to reduce friction for cross-border services.
 
-### Practice: What Organizations Should Do Now
-- **Encrypt** data, apply **least privilege**, and log access events.  
-- Implement **privacy-by-design** in products and data flows.  
-- Maintain **data inventories**, **retention schedules**, and **deletion workflows**.  
-- Conduct **third-party risk assessments**; limit vendor data sharing.  
-- Provide **user-friendly privacy controls** and clear contact paths.
 
-> Your position: “The federal government should set a uniform, enforceable standard, criminalize reckless data sales, and impose penalties (fines and temporary sales restrictions) for violations.” 
-
----
-
-## 🧠 Key Terms (Quick Glossary)
-- **Personal Data:** Any information that identifies or can reasonably be linked to a person.  
-- **Data Minimization:** Collect only what is needed for a stated purpose.  
-- **Opt-Out / Opt-In:** Whether users must refuse or grant permission before data use.  
-- **Sale/Sharing of Data:** Disclosing personal data to third parties for value or targeted advertising.  
-- **Data Broker:** Entity that buys, aggregates, and sells personal data.
-
----
-
-## 📌 One-Page Summary (For Print or Slide)
-- **Problem:** No comprehensive federal privacy law; fragmented protections.  
-- **Current Stopgaps:** COPPA, HIPAA, GLBA + state laws (CCPA/CPRA, VCDPA, etc.).  
-- **Assessment:** Inconsistent rights, enforcement gaps, complex compliance.  
-- **Solution:** Bipartisan **federal baseline** with strong rights, security, and penalties.  
-- **Call to Action:** Encrypt, minimize, and be transparent — today.
+> The federal government should set a uniform, enforceable standard, criminalize reckless data sales, and impose penalties (fines and temporary sales restrictions) for violations. Lobbying should also be illegalized as it provides a corporation with an unfair advantage over their consumers by blocking bipartisan laws such as ADPPA or by pushing through harmful laws that only benefit them. "People should not be afraid of the government. Governments should be afraid of their people," -V. 
 
 ---
 
@@ -90,4 +65,4 @@ Multiple states have enacted broad consumer privacy statutes, including:
 **James Jordon**  
 Hocking College — Cybersecurity & Network Systems  
 📧 jordonj@hocking.edu
-*AI Use Note (if used): I used Sage (ChatGPT) to write the code for Github page based on the information I provided via my .docx. I wrote the final content myself.*
+AI Use Note (if used): I used Sage (ChatGPT) to write the Github code for the portfolio page based off the .docx file I had written for it. The information was translated by SAGE into the code for Github. 

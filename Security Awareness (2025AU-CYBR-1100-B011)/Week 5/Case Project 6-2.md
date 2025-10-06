@@ -65,4 +65,5 @@ Multiple states have enacted broad consumer privacy statutes, including:
 **James Jordon**  
 Hocking College — Cybersecurity & Network Systems  
 📧 jordonj@hocking.edu
+
 AI Use Note (if used): I used Sage (ChatGPT) to write the Github code for the portfolio page based off the .docx file I had written for it. The information was translated by SAGE into the code for Github. 

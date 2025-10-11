@@ -26,4 +26,15 @@ I plan on deleting my Voter Registration card from the registry. I also plan on 
 - OER: Phishing Red Flags (Course Resources)
  
 ---
-*AI Use Note (if used): None Used. 
+*AI Use Note (if used): SAGE AI was used to code portfolio professionally for Github after writing the sample and serching for the information. SAGE electronically collated it with viviacity. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Most Absurd Laws of Ohio and Hocking County, Ohio
+
+ In the early 1900s, Hocking county, like much of the surrounding Ohio countryside, was experiencing a revivial of reformative laws such as the good ole "dancing ban", Footloose-style. Apparently in the early 1900s, during a particulary boring and repentative reformation, the town of Logan, the county seat, banned dancing in all social settings and even imposed fines on -gasp- dancers, according to the Hocking County Post. It was soon repealed. 
+
+ The state laws of Ohio range from the crazy such as horses having the right of way (a way of life out west) to the oddity of no fishing for whales on a Sunday. Would you please care to explain what species of whale lives in the Lake Erie? And no, I am not referring to walleye, pike, or muskie. But, by far the most humorous for the people of Ohio stems back to 1800s anti-cruelty to animals laws that forbids knowingly intoxicating the fish by giving it alcohol. I must tip my hat off to those brave souls that did not allow those people to coat their catfish with beer from the inside out before frying. 
+
+ *AI Use Note (if used): SAGE AI was used to help look up the laws and their references. 
+, 

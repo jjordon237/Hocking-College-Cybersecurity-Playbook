@@ -37,4 +37,14 @@ I plan on deleting my Voter Registration card from the registry. I also plan on 
  The state laws of Ohio range from the crazy such as horses having the right of way (a way of life out west) to the oddity of no fishing for whales on a Sunday. Would you please care to explain what species of whale lives in the Lake Erie? And no, I am not referring to walleye, pike, or muskie. But, by far the most humorous for the people of Ohio stems back to 1800s anti-cruelty to animals laws that forbids knowingly intoxicating the fish by giving it alcohol. I must tip my hat off to those brave souls that did not allow those people to coat their catfish with beer from the inside out before frying. 
 
  *AI Use Note (if used): SAGE AI was used to help look up the laws and their references. 
-, 
+----------------------------------------------------------------------------------------------------------------------
+
+
+[What_was_taken_James Jordon.pdf](https://github.com/user-attachments/files/22860788/What_was_taken_James.Jordon.pdf)
+
+
+
+[Lab_activity_Who_owns_your_data_ James Jordon.pdf](https://github.com/user-attachments/files/22860787/Lab_activity_Who_owns_your_data_.James.Jordon.pdf)
+
+
+

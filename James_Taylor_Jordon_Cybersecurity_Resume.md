@@ -1,6 +1,5 @@
 # **James Taylor Jordon**
-📍 11936 Joppa Rd, Logan, OH 43138  
-📞 (740) 603-7841 | ✉️ JJ43773@gmail.com  
+✉️ JJ43773@gmail.com  
 
 ---
 

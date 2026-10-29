@@ -5,9 +5,23 @@
 
 ## Overview
 
-This directory is the home for my Cisco Networking Academy Python Essentials lab work within the **Hocking-College-Cybersecurity-Playbook** repository.
+This directory is the home for my Cisco Networking Academy (NetAcad) Python Essentials lab work within the **Hocking-College-Cybersecurity-Playbook** repository. My Python coursework combines Cengage textbooks with NetAcad Python courses and hands-on programming exercises.
 
 I am using this portfolio to document my progress in Python, explain my approach to programming problems, and connect foundational coding skills to my cybersecurity studies. As I add labs, my goal is to show both the working code and what I learned while developing it.
+
+## Learning Resources and Certification Goal
+
+- **Cengage textbooks:** Course readings and exercises that support my understanding of Python programming concepts.
+- **Cisco Networking Academy Python courses:** Guided instruction and practical labs that let me apply those concepts in code.
+- **PCEP:** I plan to complete the PCEP certification by the end of the semester. This is an in-progress goal; certification has not yet been earned.
+
+## Lab Highlights
+
+| Lab | Source | Concepts Practiced |
+| --- | --- | --- |
+| 2.1.5 | NetAcad Python course | Using the `print()` function to display output in Python. |
+
+Additional lab entries and supporting files will be added as the course progresses.
 
 ## Repository Organization
 
@@ -62,9 +76,11 @@ Python fundamentals provide a foundation for later work in log analysis, file pr
 
 ## Academic Integrity and Attribution
 
-This repository is intended to present my own implementations and reflections. Cisco Networking Academy and other course providers retain ownership of their instructional materials. Third-party code or references used in a lab should be attributed in that lab's documentation, and published coursework must follow course sharing requirements.
+This repository is intended to present my own implementations and reflections. Cengage, Cisco Networking Academy, and other course providers retain ownership of their instructional materials. Textbook references and third-party code used in a lab should be attributed in that lab's documentation, and published coursework must follow course sharing requirements.
 
 ---
 
 [Return to the cybersecurity portfolio](../../)
-***Ai Attribution: ChatGPT was utilized to compile the code from the information imput into the prompt to build the .md file.***
+
+---
+**Ai Attribution: ChatGPT was utilized to compile the code from the information imput into the prompt to build the .md file.**
